@@ -63,7 +63,7 @@ Este script realiza o tratamento e escalonamento dos dados de um arquivo CSV (`c
 2. Execute o script em um ambiente Python com as bibliotecas Pandas e Scikit-learn instaladas. Caso ainda não tenha essas bibliotecas, instale-as com os comandos:
 
    ```bash
-   pip install pandas scikit-learn
+   pip install scikit-learn
 # codificacoes_variaveis_categoricas.py
 ## Codificação de Variáveis no Dataset de Clientes
 
